@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Booking_appoint/static/css/main.e6c13ad2.css",
+    "main.js": "/Booking_appoint/static/js/main.d9213c9c.js",
+    "static/js/453.c6d560a3.chunk.js": "/Booking_appoint/static/js/453.c6d560a3.chunk.js",
+    "index.html": "/Booking_appoint/index.html",
+    "main.e6c13ad2.css.map": "/Booking_appoint/static/css/main.e6c13ad2.css.map",
+    "main.d9213c9c.js.map": "/Booking_appoint/static/js/main.d9213c9c.js.map",
+    "453.c6d560a3.chunk.js.map": "/Booking_appoint/static/js/453.c6d560a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9213c9c.js"
+  ]
+}
